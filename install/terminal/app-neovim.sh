@@ -1,4 +1,4 @@
-yay -S --needed neovim --noconfirm
+# yay -S --needed neovim --noconfirm
 
 # Only attempt to set configuration if Neovim has never been run
 if [ ! -d "$HOME/.config/nvim" ]; then
